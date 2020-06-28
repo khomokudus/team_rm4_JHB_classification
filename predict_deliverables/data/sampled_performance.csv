@@ -1,0 +1,10 @@
+,weighted_average,accuracy_score
+SVC,0.95,0.9502
+LinearSVC,0.95,0.9473
+Random_Forest,0.95,0.9461
+Sequential,0.94,0.9361349453978159
+Logistic_regression,0.85,0.8555
+MultinomialNB,0.78,0.7865
+KNeighbors,0.77,0.7735
+GradientBoost,0.67,0.6766
+AdaBoost,0.57,0.5876
